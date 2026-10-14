@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+outbox.json
+agent_log.jsonl
+state/
+migration_backups/
+.env
+.DS_Store
